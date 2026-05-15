@@ -1,4 +1,4 @@
-# Finance App
+# Controle de Finanças Pessoais
 
 Aplicativo Android de gestão financeira pessoal com foco em **projeção de fluxo de caixa** e **controle de cartões de crédito parcelados**. Funciona 100% offline (local-first com SQLite).
 
